@@ -1,0 +1,14 @@
+{
+	"_type": "UMLGeneralization",
+	"_id": "AAAAAAFXV6Mm1K/nVOM=",
+	"_parent": {
+		"$ref": "AAAAAAFXV6MA7K9l6X4="
+	},
+	"source": {
+		"$ref": "AAAAAAFXV6MA7K9l6X4="
+	},
+	"target": {
+		"$ref": "AAAAAAFXV6LKJ68jlPY="
+	},
+	"visibility": "public"
+}

@@ -1,0 +1,13 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAFXV6MA7K9l6X4=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Class2",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isActive": false
+}
