@@ -16,10 +16,10 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 312,
-	"top": 128,
+	"left": 280,
+	"top": 136,
 	"width": 208,
-	"height": 25,
+	"height": 23,
 	"autoResize": false,
 	"stereotypeLabel": {
 		"$ref": "AAAAAAFXV6LKKa8ne8Y="
