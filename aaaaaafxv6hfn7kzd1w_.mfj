@@ -7,7 +7,7 @@
 	"model": {
 		"$ref": "AAAAAAFXV6hfnbKRxJg="
 	},
-	"visible": false,
+	"visible": true,
 	"enabled": true,
 	"lineColor": "#000000",
 	"fillColor": "#ffffff",
@@ -16,9 +16,9 @@
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": -16,
-	"top": -16,
-	"width": 10,
+	"left": 600,
+	"top": 168,
+	"width": 208,
 	"height": 10,
 	"autoResize": false
 }

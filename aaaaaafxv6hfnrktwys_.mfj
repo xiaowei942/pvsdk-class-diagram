@@ -30,7 +30,7 @@
 		"$ref": "AAAAAAFXV6hfnrKU3tY="
 	},
 	"wordWrap": false,
-	"suppressAttributes": true,
+	"suppressAttributes": false,
 	"suppressOperations": false,
 	"suppressReceptions": true,
 	"showMultiplicity": true,

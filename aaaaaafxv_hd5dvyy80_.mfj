@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAttribute",
+	"_id": "AAAAAAFXV+hd5DvyY80=",
+	"_parent": {
+		"$ref": "AAAAAAFXV6LKJ68jlPY="
+	},
+	"name": "systemId",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"type": "int",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"aggregation": "none",
+	"isID": false
+}
