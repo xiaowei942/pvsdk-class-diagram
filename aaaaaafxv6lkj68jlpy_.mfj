@@ -4,9 +4,25 @@
 	"_parent": {
 		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 	},
-	"name": "Class11",
+	"name": "RemoteControl",
 	"visibility": "public",
-	"isAbstract": false,
+	"operations": [
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAFXV9XI6Onzhjk=",
+			"_parent": {
+				"$ref": "AAAAAAFXV6LKJ68jlPY="
+			},
+			"name": "upgrade",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"concurrency": "sequential",
+			"isQuery": false,
+			"isAbstract": true
+		}
+	],
+	"isAbstract": true,
 	"isFinalSpecialization": false,
 	"isLeaf": false,
 	"isActive": false

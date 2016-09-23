@@ -9,7 +9,7 @@
 	"lineColor": "#000000",
 	"fillColor": "#ffffff",
 	"fontColor": "#000000",
-	"font": "Arial;13;1",
+	"font": "Arial;13;3",
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
@@ -19,7 +19,7 @@
 	"height": 13,
 	"autoResize": false,
 	"underline": false,
-	"text": "Interface1",
+	"text": "IUpgrade",
 	"horizontalAlignment": 2,
 	"verticalAlignment": 5
 }

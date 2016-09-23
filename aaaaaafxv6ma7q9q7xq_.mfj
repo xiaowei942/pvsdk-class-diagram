@@ -15,11 +15,11 @@
 	"containerExtending": false,
 	"left": 173,
 	"top": 319,
-	"width": 158,
+	"width": 189,
 	"height": 13,
 	"autoResize": false,
 	"underline": false,
-	"text": "Class2",
+	"text": "MotionSensingRemoteControl",
 	"horizontalAlignment": 2,
 	"verticalAlignment": 5
 }

@@ -1,0 +1,14 @@
+{
+	"_type": "UMLOperation",
+	"_id": "AAAAAAFXV9XLNOn0+Gw=",
+	"_parent": {
+		"$ref": "AAAAAAFXV6MA7K9l6X4="
+	},
+	"name": "upgrade",
+	"visibility": "public",
+	"isStatic": false,
+	"isLeaf": false,
+	"concurrency": "sequential",
+	"isQuery": false,
+	"isAbstract": false
+}

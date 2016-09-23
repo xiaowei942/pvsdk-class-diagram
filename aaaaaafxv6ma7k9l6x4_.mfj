@@ -4,8 +4,24 @@
 	"_parent": {
 		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 	},
-	"name": "Class2",
+	"name": "MotionSensingRemoteControl",
 	"visibility": "public",
+	"operations": [
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAFXV9XLNOn0+Gw=",
+			"_parent": {
+				"$ref": "AAAAAAFXV6MA7K9l6X4="
+			},
+			"name": "upgrade",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"concurrency": "sequential",
+			"isQuery": false,
+			"isAbstract": false
+		}
+	],
 	"isAbstract": false,
 	"isFinalSpecialization": false,
 	"isLeaf": false,

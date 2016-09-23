@@ -31,7 +31,7 @@
 	},
 	"wordWrap": false,
 	"suppressAttributes": true,
-	"suppressOperations": true,
+	"suppressOperations": false,
 	"suppressReceptions": true,
 	"showMultiplicity": true,
 	"showOperationSignature": true,

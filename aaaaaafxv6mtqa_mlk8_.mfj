@@ -4,8 +4,24 @@
 	"_parent": {
 		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 	},
-	"name": "Class3",
+	"name": "StandardReomteControl",
 	"visibility": "public",
+	"operations": [
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAFXV9XNr+n1u8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFXV6MTqa+mlk8="
+			},
+			"name": "upgrade",
+			"visibility": "public",
+			"isStatic": false,
+			"isLeaf": false,
+			"concurrency": "sequential",
+			"isQuery": false,
+			"isAbstract": false
+		}
+	],
 	"isAbstract": false,
 	"isFinalSpecialization": false,
 	"isLeaf": false,
