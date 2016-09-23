@@ -1,0 +1,12 @@
+{
+	"_type": "UMLInterface",
+	"_id": "AAAAAAFXV6hfnbKRxJg=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Interface1",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false
+}

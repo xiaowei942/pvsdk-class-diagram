@@ -1,0 +1,14 @@
+{
+	"_type": "UMLInterfaceRealization",
+	"_id": "AAAAAAFXV6iIzbLUTyE=",
+	"_parent": {
+		"$ref": "AAAAAAFXV6LKJ68jlPY="
+	},
+	"source": {
+		"$ref": "AAAAAAFXV6LKJ68jlPY="
+	},
+	"target": {
+		"$ref": "AAAAAAFXV6hfnbKRxJg="
+	},
+	"visibility": "public"
+}
