@@ -1,25 +1,25 @@
 {
 	"_type": "LabelView",
-	"_id": "AAAAAAFXV6hfn7KVcA8=",
+	"_id": "AAAAAAFX0uejo1+uepI=",
 	"_parent": {
-		"$ref": "AAAAAAFXV6hfnrKU3tY="
+		"$ref": "AAAAAAFX0uejpF+w4vk="
 	},
-	"visible": true,
+	"visible": false,
 	"enabled": true,
 	"lineColor": "#000000",
-	"fillColor": "#ffffff",
+	"fillColor": "#a6a6a6",
 	"fontColor": "#000000",
 	"font": "Arial;13;0",
 	"showShadow": true,
 	"containerChangeable": false,
 	"containerExtending": false,
-	"left": 605,
-	"top": 150,
-	"width": 198,
+	"left": -260,
+	"top": -32,
+	"width": 172,
 	"height": 13,
 	"autoResize": false,
 	"underline": false,
-	"text": "Â«interfaceÂ»",
+	"text": "(from RemoteControl)",
 	"horizontalAlignment": 2,
 	"verticalAlignment": 5
 }
